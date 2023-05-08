@@ -529,13 +529,13 @@ span{
 }
 
 .col-5{
-  flex-basis: 100%;
+  flex-basis: 50%;
   margin-top: 100px;
   margin-left: 37px;
 }
 
 .col-5 img{
-  width: 40%;
+  width: 100%;
   margin-left: 30px;
   height: fit-content;
   border-radius: 5% 10% ;
@@ -788,13 +788,13 @@ margin-left: 30px;
 }
 
 .col-5{
-  flex-basis: 100%;
+  flex-basis: 50%;
   margin-top: 100px;
   margin-left: 37px;
 }
 
 .col-5 img{
-  width: 50%;
+  width: 100%;
   margin-left: 30px;
   height: fit-content;
   border-radius: 5% 10% ;
