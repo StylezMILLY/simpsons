@@ -401,7 +401,7 @@ span{
   font-size: 40px;
   font-weight: 400;
   text-align: center;
-  margin-top: 40%;
+  margin-top: 10%;
 }
 
 .cont p{
@@ -536,6 +536,8 @@ span{
 
 .col-5 img{
   width: 100%;
+  display: block;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   margin-left: 30px;
   height: fit-content;
   border-radius: 5% 10% ;
@@ -630,7 +632,7 @@ margin-left: 30px;
   } 
 
   #header{
-    background-image: url(images/sim88.jpg);
+    background-image: url(images/homer3.jpg);
     background-position: top;
     background-size: cover;
     background-repeat: no-repeat;
@@ -656,19 +658,19 @@ margin-left: 30px;
 }
 
 .cont h1{
-  font-size: 70px;
+  font-size: 50px;
   font-weight: 400;
   text-align: center;
-  margin-top: 40%;
+  margin-top: 10px;
 }
 
 .cont p{
-  font-size: 28px;
+  font-size: 18px;
   text-align: center;
 }
 
 .cont i{
-  font-size: 70px;
+  font-size: 50px;
   margin-left: 30px;
 }
 
@@ -706,14 +708,14 @@ margin-left: 30px;
 }
 .sub-tittle{
   margin-top: 20px;
-   font-size: 60px;
+   font-size: 50px;
    text-align: center;
 
 }
 
 .col-2 p{
  padding-top: 30px;
- font-size: 28px;
+ font-size: 18px;
  text-align: center;
  padding: 15px;
 }
@@ -761,7 +763,7 @@ margin-left: 30px;
 }
 
 .col-3 p{
-  font-size: 28px;
+  font-size: 18px;
 }
 
 .col h2{
@@ -771,7 +773,7 @@ margin-left: 30px;
 
 .col i{
   display: none;
-  font-size: 90px;
+  font-size: 50px;
   padding: 20px;
 }
 
@@ -810,7 +812,7 @@ margin-left: 30px;
 
 
 #tokenomics h2{
-  font-size: 40px;
+  font-size: 50px;
   font-weight: 300;
   color: #fff;
   text-align: center;
@@ -819,7 +821,7 @@ margin-left: 30px;
 
 .row h2{
   text-align: center;
-  font-size: 60px;
+  font-size: 50px;
   font-weight: 400;
   color: #fff;
   margin-bottom: 30px;
@@ -837,7 +839,7 @@ margin-left: 30px;
 
 .man1 h3{
   text-align: center;
-  font-size: 60px;
+  font-size: 50px;
   padding: 10px;
   color: #fff;
 }
@@ -846,7 +848,7 @@ margin-left: 30px;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
-  font-size: 60px;
+  font-size: 50px;
   padding: 10px;
   color: #fff;
 }
@@ -857,7 +859,7 @@ margin-left: 30px;
   border-radius: 30px;
   background-color: #1C1C1C;
   padding: 30px;
-  font-size: 28px;
+  font-size: 18px;
   color: #fff;
 }
 
