@@ -374,7 +374,7 @@ span{
 
   #header{
     background-image: url(images/sim88.jpg);
-    background-position: center;
+    background-position: top;
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
@@ -632,7 +632,7 @@ margin-left: 30px;
 
   #header{
     background-image: url(images/sim88.jpg);
-    background-position: center;
+    background-position: top;
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
@@ -881,7 +881,7 @@ margin-left: 30px;
 @media only screen and (min-width: 768px) {
   #header{
     background-image: url(images/simpsons.jpg);
-    background-position: center;
+    background-position: top;
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
